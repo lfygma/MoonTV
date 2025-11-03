@@ -105,12 +105,5 @@
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "name": "牛牛资源"
     }
-  },
-  "custom_category": [
-    {
-      "name": "国漫",
-      "type": "dongman",
-      "query": "国漫"
-    }
-  ]
+  }
 }
