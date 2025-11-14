@@ -87,7 +87,8 @@
     },
     "haohua": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源"
+      "name": "豪华资源",
+      "detail": "https://hhzyapi.com/"
     },
     "kuake": {
       "api": "https://kuakezy1.com/api.php/provide/vod",
