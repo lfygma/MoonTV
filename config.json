@@ -150,7 +150,7 @@
   "custom_category": [
     {
       "name": "动漫",
-      "type": "movie","tv",
+      "type": "movie",
       "query": "动漫"
     }
   ]
