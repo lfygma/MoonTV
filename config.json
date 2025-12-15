@@ -146,5 +146,12 @@
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
     }
-  }
+  },
+  "custom_category": [
+    {
+      "name": "动漫",
+      "type": "movie","tv",
+      "query": "动漫"
+    }
+  ]
 }
